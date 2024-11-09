@@ -1,0 +1,256 @@
+
+
+
+.banner_main {
+     background: #11aeef;
+     padding: 75px 0 90px 0;
+}
+
+.text-bg {
+     text-align: left;
+     float: right;
+     width: 100%;
+     max-width: 431px;
+}
+
+.text-bg h1 {
+     color: #fff;
+     padding-top: 50px;
+     font-size: 71px;
+     line-height: 85px;
+     padding-bottom: 25px;
+     font-weight: bold;
+}
+
+.text-bg p {
+     font-size: 17px;
+     display: block;
+     color: #fff;
+     line-height: 25px;
+     padding-bottom: 50px;
+     font-weight: 500;
+}
+
+.text-bg .read_more {
+     border: #fff solid 5px;
+}
+
+.text-bg .read_more:hover {
+     background: #000;
+}
+
+.images_box figure {
+     margin: 0px;
+}
+
+.images_box figure img {
+     width: 100%;
+}
+
+.carousel-indicators li {
+     background: #000;
+     width: 38px;
+     height: 8px;
+     border-radius: 10px;
+}
+
+.carousel-indicators {
+     bottom: 45px;
+}
+
+.carousel-caption {
+     position: inherit;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+     display: none;
+}
+
+
+
+.read_more {
+     font-size: 17px;
+     background-color: transparent;
+     border: #00aeef solid 5px;
+     color: #010a05 !important;
+     padding: 13px 0px;
+     width: 100%;
+     max-width: 210px;
+     text-align: center;
+     display: inline-block;
+     transition: ease-in all 0.5s;
+     border-radius: 40px;
+     font-weight: 500;
+}
+
+.read_more:hover {
+     background: #00aeef;
+     color: #fff !important;
+     transition: ease-in all 0.5s;
+}
+
+
+/** about section **/
+
+.about {
+     background: #fafafa;
+     padding: 90px 0;
+}
+
+.about .titlepage {
+     text-align: left;
+     padding: 0;
+     margin-top: 15px;
+     max-width: 669px;
+     width: 100%;
+     float: left;
+}
+
+.about .titlepage h2 {
+     margin-bottom: 40px;
+}
+
+.about .titlepage p {
+     color: #010a05;
+     font-size: 17px;
+     font-weight: 400;
+}
+
+.about .titlepage .read_more {
+     float: right;
+}
+
+.about_img figure {
+     margin: 0;
+}
+
+.about_img figure img {
+     width: 100%;
+}
+
+
+/** end about section **/
+
+
+/** choose  section **/
+
+.blu2 {
+     color: #3a3aff;
+     font-weight: bold;
+}
+
+.choose_bg {
+     background: url(../images/why.jpg);
+     padding: 120px 0;
+}
+
+.choose .choose_box {
+     background: #fff;
+     padding: 35px 35px;
+     text-align: center;
+}
+
+.choose .choose_box span {
+     color: #141629;
+     display: block;
+     font-size: 70px;
+     font-weight: bold;
+     text-align: center;
+}
+
+.choose .choose_box h3 {
+     color: #00aeef;
+     font-size: 25px;
+     line-height: 28px;
+     font-weight: 500;
+     padding-bottom: 10px;
+     padding-top: 15px;
+}
+
+.choose .choose_box p {
+     color: #010a05;
+     font-size: 17px;
+     line-height: 30px;
+     font-weight: 500;
+}
+
+
+
+.work {
+     background: #ffffff;
+     padding: 90px 0;
+}
+
+.work .titlepage {
+     text-align: left;
+     padding: 0;
+     max-width: 648px;
+     width: 100%;
+     float: right;
+}
+
+.work .titlepage h2 {
+     margin-bottom: 40px;
+}
+
+.work .titlepage p {
+     color: #010a05;
+     font-size: 17px;
+     font-weight: 400;
+}
+
+.work_img {
+     padding-right: 30px;
+}
+
+.work_img figure {
+     margin: 0;
+}
+
+.work_img figure img {
+     width: 100%;
+}
+
+
+
+.main_form .contactus {
+     border-radius: 35px;
+     padding: 0px 30px;
+     margin-bottom: 30px;
+     width: 100%;
+     height: 60px;
+     background: #fff;
+     color: #777977;
+     font-size: 18px;
+     font-weight: normal;
+     border: inherit;
+}
+
+.main_form .textarea {
+     padding: 8px 30px;
+     padding-top: 63px;
+     margin-bottom: 30px;
+     width: 100%;
+     background: #fff;
+     color: #777977;
+     font-size: 18px;
+     font-weight: normal;
+     border: inherit;
+     border-radius: 20px;
+}
+
+.main_form .send_btn {
+     font-size: 17px;
+     transition: ease-in all 0.5s;
+     background-color: #fff;
+     color: #000;
+     padding: 13px 0px;
+     max-width: 200px;
+     width: 100%;
+     display: block;
+     border-radius: 30px;
+     margin: 0 auto;
+}
+
+
